@@ -1,7 +1,7 @@
 # ATP26-ispit 😈 🌇
 ❗**Napomena:** Ovo je studentski projekt za kolegij ATP26.
 
-[Youtube video](https://youtu.be/ODpB9-MCa5s?si=f1rgoj8SYtkCkr67)
+[Youtube video](https://www.youtube.com/watch?v=ODpB9-MCa5s)
 
 ## User experience design
 
