@@ -117,3 +117,6 @@ print("Ovo je kod")
 ![mesh](mesh.png)
 
 ![galaxy](universe.jpg)
+
+[Licensa](LICENSE.md)
+[Changelog](CHANGELOG.md)
