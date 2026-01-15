@@ -65,3 +65,5 @@ User research is the systematic study of target users and their requirements in 
 
 
 ![mesh](mesh.png)
+
+![galaxy](universe.jpg)
