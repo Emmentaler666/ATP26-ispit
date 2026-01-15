@@ -108,12 +108,10 @@ User research includes interviews, surveys, and field studies.[24][25]
 
 ---
 
-## Code example
+## Primjer koda
 
-```html
-<button aria-label="Submit form">
-  Submit
-</button>
+```bash
+print("Ovo je kod)
 ```
 
 ![mesh](mesh.png)
