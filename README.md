@@ -1,5 +1,5 @@
 # ATP26-ispit 😈 🌇
-
+> **Napomena:** Ovo je studentski projekt za kolegij ATP26.
 ## User experience design
 
 User experience design (UX design, UXD, UED, or XD), upon which is the centralized requirements for "User Experience Design Research" (also known as UX Design Research), defines the experience a user would go through when interacting with a company, its services, and its products.[1]  
