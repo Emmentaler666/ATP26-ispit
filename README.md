@@ -121,4 +121,4 @@ print("Ovo je kod")
 [Licensa](LICENSE.md)
 [Changelog](CHANGELOG.md)
 
-[vdeo](https://youtu.be/ODpB9-MCa5s?si=f1rgoj8SYtkCkr67)
+[Youtube video](https://youtu.be/ODpB9-MCa5s?si=f1rgoj8SYtkCkr67)
