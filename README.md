@@ -1,6 +1,6 @@
 # ATP26-ispit
 
-## User experoence design
+## User experience design
 
 User experience design (UX design, UXD, UED, or XD), upon which is the centralized requirements for "User Experience Design Research" (also known as UX Design Research), defines the experience a user would go through when interacting with a company, its services, and its products.[1]  
 User experience design is a user centered design approach because it considers the user's experience when using a product or platform.[2]  
@@ -27,7 +27,7 @@ User experience became a positive insight for designers in the early 1990s with 
 
 ---
 
-## Elements of user experence
+## Elements of user experience
 
 ### Research
 
@@ -114,7 +114,7 @@ User research includes interviews, surveys, and field studies.[24][25]
 <button aria-label="Submit form">
   Submit
 </button>
-
+```
 
 ![mesh](mesh.png)
 
