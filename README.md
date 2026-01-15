@@ -111,7 +111,7 @@ User research includes interviews, surveys, and field studies.[24][25]
 ## Primjer koda
 
 ```bash
-print("Ovo je kod)
+print("Ovo je kod")
 ```
 
 ![mesh](mesh.png)
